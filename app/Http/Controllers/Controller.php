@@ -8,4 +8,6 @@ bla bla bla bla
  Pikachu!
  Pika Pika Pikachu!
  Testing Pikachu!
+ 
+ THUNDERSHOCK!
 ?>
